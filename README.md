@@ -1,9 +1,9 @@
 
-#서버프로그램 구현
+# 서버프로그램 구현
 
 github.com/Lonru/BlogTest.git
 
-##환경
+## 환경
 -window
 -jdk1.8
 -tomcat9.0
@@ -13,7 +13,7 @@ github.com/Lonru/BlogTest.git
 -인코딩 utf-8
 -jstl 1.2
 
-##MySQL 데이터베이스 생성 및 사용자 생성
+## MySQL 데이터베이스 생성 및 사용자 생성
 
 ```sql
     
