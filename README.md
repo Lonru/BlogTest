@@ -31,6 +31,6 @@ CREATE TABLE user(
 ## 회원가입 화면
 ![image](https://user-images.githubusercontent.com/30206820/104282702-ce9ac380-54f2-11eb-9017-103c8d00ce13.png)
 ## 유저 권한의 목록
-![image](https://user-images.githubusercontent.com/30206820/104282622-aca14100-54f2-11eb-86a3-cfe5fecce49c.png)
+![image](https://user-images.githubusercontent.com/30206820/104285302-c6448780-54f6-11eb-8a37-8712119d3807.png)
 ## 어드민 권한의 목록
-![image](https://user-images.githubusercontent.com/30206820/104282794-e96d3800-54f2-11eb-8635-47872b23d562.png)
+![image](https://user-images.githubusercontent.com/30206820/104285452-fd1a9d80-54f6-11eb-9f87-00d044c0ed77.png)
