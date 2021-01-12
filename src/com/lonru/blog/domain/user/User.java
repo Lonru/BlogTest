@@ -15,4 +15,11 @@ public class User {
 	private String password;
 	private String email;
 	private String userRole; // admin, user
+
+	public String getUsername() {
+		return username.replaceAll("<", "&lt").replaceAll(">", "&gt");
+	}
+	public String getemail() {
+		return email.replaceAll("<", "&lt").replaceAll(">", "&gt");
+	}
 }
